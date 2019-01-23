@@ -125,7 +125,7 @@
         'name': 'variable.language.self.p8'
       }
       {
-        'match': '(?<![^.]\\.|:)\\b(load|save|folder|ls|run|resume|reboot|stat|info|flip|printh|clip|pget|pset|sget|sset|fget|fset|print|cursor|color|cls|camera|circ|circfill|line|rect|rectfill|pal|palt|spr|sspr|add|del|all|foreach|pairs|btn|btnp|sfx|music|mget|mset|map|peek|poke|memcpy|reload|cstore|memset|max|min|mid|flr|cos|sin|atan2|sqrt|abs|rnd|srand|band|bor|bxor|bnot|shl|shr|lshr|rotl|rotr|sub|cartdata|dget|dset|setmetatable|cocreate|coresume|costatus|yield)\\b(?=\\s*(?:[({"\']|\\[\\[))'
+        'match': '(?<![^.]\\.|:)\\b(load|save|folder|ls|run|resume|reboot|extcmd|stat|info|time|flip|printh|clip|pget|pset|sget|sset|fget|fset|print|cursor|color|cls|camera|circ|circfill|line|rect|rectfill|pal|palt|fillp|spr|sspr|add|del|all|foreach|pairs|btn|btnp|sfx|music|mget|mset|map|mapdraw|menuitem|peek|peek4|poke|poke4|memcpy|reload|cstore|memset|max|min|mid|flr|ceil|cos|sin|atan2|sqrt|abs|sgn|rnd|srand|band|bor|bxor|bnot|shl|shr|lshr|rotl|rotr|sub|cartdata|dget|dset|getmetatable|setmetatable|cocreate|coresume|costatus|yield|assert|stop|trace|type|tonum|tostr)\\b(?=\\s*(?:[({"\']|\\[\\[))'
         'name': 'support.function.p8'
       }
       {
