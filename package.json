@@ -2,9 +2,13 @@
   "name": "language-pico8",
   "version": "1.0.0",
   "private": false,
-  "author": "Keiya <keiyakins@gmail.com>",
+  "author": "Tobias V. Langhoff <tobias@langhoff.no> (https://github.com/tobiasvl)",
+  "contributors": [
+    "Keiya <keiyakins@gmail.com> (https://github.com/keiyakins)",
+    "Jorge Garrido Oval <firezenk@gmail.com> (https://github.com/FireZenk)"
+  ],
   "description": "Pico-8 syntax and snippets. Derived from language-lua",
-  "repository": "https://github.com/keiyakins/language-pico8",
+  "repository": "https://github.com/tobiasvl/language-pico8",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
