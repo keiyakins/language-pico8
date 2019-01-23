@@ -130,7 +130,7 @@
       }
       {
         'match': '\\b([A-Za-z_]\\w*)\\b(?=\\s*(?:[({"\']|\\[\\[))'
-        'name': 'support.function.any-method.p8'
+        'name': 'entity.function.name.p8'
       }
       {
         'match': '(?<=[^.]\\.|:)\\b([A-Za-z_]\\w*)'
